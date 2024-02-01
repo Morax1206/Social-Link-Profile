@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+.profile-cont{
+    width: 30%;
+    margin: 300px auto;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+img{
+    border-radius: 100%;
+    width: 20%;
+}
+h1{
+    margin-top: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+}
+h2{
+    color: hsl(75, 94%, 57%);
+    font-weight: 700;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+h3{
+    color: white;
+    font-size: 14px;
+    margin: 10px auto;
+    font-weight: 400;
+}
+p{
+    color: white;
+    font-size: 14px;
+    margin: 10px auto;
+    font-weight: 400;
+}
+.git-box{
+    width: 75%;
+    background-color: hsl(0, 0%, 20%);
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 2px;
+}
+.git-box:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+p:hover{
+    color: hsl(0, 0%, 20%);
+    font-weight: 600;
+}
